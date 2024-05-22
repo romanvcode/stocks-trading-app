@@ -1,4 +1,5 @@
-A Stock Trading App.
+# A Stock Trading App.
+
 With live chart and price updates on the selected stock.
 A search page to search for desired stock.
 Place buy or sell order
