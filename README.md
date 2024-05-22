@@ -1,0 +1,1 @@
+# 22. Section 24 - Clean Architecture - Stocks App
